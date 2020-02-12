@@ -2,6 +2,10 @@ h1 {
     font-size: 28px;
 }
 
+h2 {
+    font-size: 20px;
+}
+
 /* Navigation bar */
 #nav-bar {
     display: flex;
