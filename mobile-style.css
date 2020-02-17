@@ -46,3 +46,11 @@ h2 {
     min-width: 0;
     margin: 1.5rem 2rem;
 }
+
+#contact i {
+    margin: 0.5rem 0.5rem;
+}
+
+#contact a{
+    font-size: 12px;
+}

@@ -103,8 +103,8 @@ ul li {
 }
 
 .container {
-    min-width: 650px;
-    margin: 1rem 0.2rem;
+    min-width: 600px;
+    margin: 1rem 0.5rem;
     padding: 1rem 2rem;
     background: #ececec;
     border: 3px #333 solid;
@@ -136,4 +136,30 @@ ul li {
     border: 4px #000 solid;
     border-radius: 10px;
     margin: 0.5rem 0;
+}
+
+
+/* Icons */
+#contact {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    align-content: center;
+}
+
+#contact .sub-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: center;
+}
+
+#contact i {
+    margin: 0.5rem 1rem;
+}
+
+#contact a {
+    color: rgb(77, 109, 216);
+    font-size: 18px;
+    font-weight: bold;
 }
