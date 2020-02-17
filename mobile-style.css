@@ -43,5 +43,6 @@ h2 {
 }
 
 .container{
+    min-width: 0;
     margin: 1.5rem 2rem;
 }

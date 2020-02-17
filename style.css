@@ -103,6 +103,7 @@ ul li {
 }
 
 .container {
+    min-width: 650px;
     margin: 1rem 0.2rem;
     padding: 1rem 2rem;
     background: #ececec;
